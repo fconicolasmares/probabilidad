@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Ejercicios de Combinatoria 1
 
-1. En una carrera en la que participan diez caballos ¿de cuántas maneras diferentes se pueden dar los cuatro primeros lugares?
+1. En una carrera789 en la que participan diez caballos ¿de cuántas maneras diferentes se pueden dar los cuatro primeros lugares?
 
 2. Una empresa de reciente creación encarga a un diseñador gráfico la elaboración del su logotipo, indicando que ha de seleccionar exactamente tres colores de una lista de seis. ¿Cuántos grupos tienen para elegir el diseñador?
 
